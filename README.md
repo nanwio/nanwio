@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Ignacio 👋</h1>
 
-<!--
-**nanwio/nanwio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>AI Platform Engineer</strong> @ <a href="https://github.com/MaiteAI">maite.ai</a> · Spain 🇪🇸
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/ignacio-angulo/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nangulocouso@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+```text
+Languages    Python · TypeScript · Go · Java · Dart
+AI/ML        LLMs · NLP · Computer Vision · Vector DBs · Embeddings
+Backend      FastAPI · Spring Boot · Cloud Functions · Cloud Run
+Cloud        GCP · Azure · Docker · Cloud Tasks
+Databases    PostgreSQL · Qdrant · Firebase · Cloud SQL
+Frontend     React · Flutter · TailwindCSS
+```
+
+---
+
+### 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nanwio&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanwio&layout=compact&theme=github_dark&hide_border=true&hide_title=true" height="150"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nanwio&color=6e7681&style=flat-square&label=views" alt="Profile views"/>
+</p>
