@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ignacio 👋</h1>
+<h1 align="center">Hey, I'm Nacho 👋</h1>
 
 <p align="center">
   <strong>AI Platform Engineer</strong> @ <a href="https://github.com/MaiteAI">maite.ai</a> · Spain 🇪🇸
@@ -18,12 +18,21 @@
 ### 🛠 Tech Stack
 
 ```text
-Languages    Python · TypeScript · Go · Java · Dart
-AI/ML        LLMs · NLP · Computer Vision · Vector DBs · Embeddings
-Backend      FastAPI · Spring Boot · Cloud Functions · Cloud Run
-Cloud        GCP · Azure · Docker · Cloud Tasks
-Databases    PostgreSQL · Qdrant · Firebase · Cloud SQL
-Frontend     React · Flutter · TailwindCSS
+Languages      Python · TypeScript · Go · Java · Dart
+
+AI/ML          OpenAI · Gemini · SpaCy · LangChain
+               Embeddings · Vector Search · NLP · OCR · Computer Vision
+
+Backend        FastAPI · SQLAlchemy · Pydantic · Spring Boot
+
+Cloud          GCP · Cloud Run · Cloud Functions · Cloud Tasks
+               Azure · Docker
+
+Databases      PostgreSQL · pgvector · Qdrant · Firebase · Supabase
+
+Frontend       React · Flutter · TailwindCSS
+
+Tools          Poetry · PDM · uv · Alembic · Git
 ```
 
 ---
