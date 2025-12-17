@@ -40,7 +40,7 @@ Tools          Poetry · PDM · uv · Alembic · Git
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-nu691d70h-ignacio-8743s-projects.vercel.app/api?username=nanwio&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true" height="150"/>
+  <img src="https://github-readme-stats-phi-six-76.vercel.app/api?username=nanwio&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true" height="150"/>
 </p>
 
 <p align="center">
