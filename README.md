@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Nacho 👋</h1>
 <p align="center">
-  <strong>AI Platform Engineer</strong> @ <a href="https://github.com/MaiteAI">maite.ai</a> · Spain 🇪🇸
+  <strong>Lead AI Platform Engineer</strong> @ <a href="https://github.com/MaiteAI">maite.ai</a> · Spain 🇪🇸
 </p>
 <p align="center">
   <a href="https://nanwio.dev">
